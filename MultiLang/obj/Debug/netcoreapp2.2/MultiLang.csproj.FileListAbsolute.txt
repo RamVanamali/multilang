@@ -1,0 +1,17 @@
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\MultiLang.deps.json
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\MultiLang.runtimeconfig.json
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\MultiLang.runtimeconfig.dev.json
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\MultiLang.dll
+C:\Users\sprafulla\source\repos\MultiLang\bin\Debug\netcoreapp2.2\MultiLang.pdb
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.csprojAssemblyReference.cache
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.AssemblyInfoInputs.cache
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.AssemblyInfo.cs
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.RazorAssemblyInfo.cache
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.RazorAssemblyInfo.cs
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.RazorTargetAssemblyInfo.cache
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.dll
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.pdb
+C:\Users\sprafulla\source\repos\MultiLang\obj\Debug\netcoreapp2.2\MultiLang.genruntimeconfig.cache
